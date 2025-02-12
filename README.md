@@ -3,12 +3,14 @@ for save rblx luau code
 
 /
 
-Particle Emit
+Particle 
 
-Mesh Emit
+Mesh (not yet just lazy)
 
-Trail Enabled
+Trail
 
-Beam Enabled
+Beam
+
+Light
 
 \

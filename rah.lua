@@ -14,6 +14,7 @@ local function enableParticle(particleParent, truefalse)
 					v.Enabled = true
 				else
 					v.Enabled = false
+				end
 			end))
 		end
 	end

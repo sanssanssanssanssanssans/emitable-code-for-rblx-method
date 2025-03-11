@@ -5,9 +5,7 @@ for save rblx luau code
 
 Particle 
 
-Mesh (not yet just lazy)
-
-Trail
+Mesh
 
 Beam
 
